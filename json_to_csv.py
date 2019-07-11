@@ -1,5 +1,8 @@
-# Casey Key
-# June 19, 2019
+'''
+Usage: python3 json_to_csv.py <jsonfile.json> <outputfile.csv>
+Created by: Casey Key, SE Intern
+Creaed: June 19, 2019
+'''
 
 import csv
 import json
